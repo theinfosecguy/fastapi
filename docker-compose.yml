@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - 8000:8000
