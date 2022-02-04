@@ -4,7 +4,7 @@ A Basic FastAPI based CRUD backend API without any database connection.
 
 ### How to use?
 
-- Clone the Repo using: `git clone https://www.github.com/theinfosecguy/fastapi`
+- Clone the Repo using: `git clone https://github.com/theinfosecguy/fastapi`
 - Change Directory: `cd fastapi`
 - Start Docker on your machine
 - Use command: `sudo docker-compose up`
